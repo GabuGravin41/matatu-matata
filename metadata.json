@@ -1,0 +1,7 @@
+{
+  "name": "MatatuLive",
+  "description": "Real-time public transport tracking and booking system for Nairobi commuters. Track Super Metro, Lopha, and more.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
